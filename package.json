@@ -1,6 +1,6 @@
 {
   "name": "module-available",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test whether a module is available as a dependency",
   "main": "index.js",
   "keywords": [
