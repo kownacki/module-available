@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kownacki/module-available.svg?branch=master)](https://travis-ci.org/kownacki/module-available)
+
 # module-available
 
 Test whether a module is available as a dependency
