@@ -17,6 +17,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
   "homepage": "https://github.com/kownacki/module-available",
   "repository": {
     "type": "git",
