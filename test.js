@@ -2,7 +2,7 @@
 
 var chai = require("chai");
 
-var sut = require(".");
+var sut = require("./");
 
 function notBrokenTypeof(value) {
     if (value === null) {
